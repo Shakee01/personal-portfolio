@@ -28,8 +28,9 @@ A responsive personal portfolio website built with semantic HTML and CSS for the
 
 Open `index.html` in any web browser.
 
-https://roadmap.sh/projects/portfolio-website
 
 ## Project URL
 
 https://github.com/Shakee01/personal-portfolio
+
+https://roadmap.sh/projects/portfolio-website
